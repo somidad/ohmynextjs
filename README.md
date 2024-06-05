@@ -2,6 +2,13 @@
 
 My personal Next.js template
 
+## Commands (`npm run`)
+
+Next.js builtin commands are omitted here
+
+- `ui`: Short for `npx shadcn-ui@latest`. Ex: `npx run ui add button`
+- `test`: Unit test with Vitest
+
 ## Compositions
 
 ### Next.js
@@ -17,7 +24,6 @@ My personal Next.js template
 - Style: Default
 - Base color: Slate
 - ✅ CSS variables
-- Command `npm run ui [add]` short for `npx shadcn-ui@latest [add]`
 
 ### Typing/Validaton - Zod
 
