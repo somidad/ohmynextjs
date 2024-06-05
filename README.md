@@ -9,6 +9,11 @@ Next.js builtin commands are omitted here
 - `ui`: Short for `npx shadcn-ui@latest`. Ex: `npx run ui add button`
 - `test`: Unit test with Vitest
 
+## Environment variables
+
+- Environment files: `.env[.<mode>][.local]`
+- All environment variable names should start with `NEXT_`
+
 ## Compositions
 
 ### Next.js
