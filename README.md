@@ -12,9 +12,14 @@ My personal Next.js template
 - ✅ Default import with `@/*`
 - ❌ ESLint
 
-### Shadcn UI
+### UI - Shadcn UI
 
 - Style: Default
 - Base color: Slate
 - ✅ CSS variables
 - Command `npm run ui [add]` short for `npx shadcn-ui@latest [add]`
+
+### Testing - Vitest
+
+- ✅ jsdom
+- ✅ @testing-library/react
