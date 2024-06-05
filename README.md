@@ -17,3 +17,4 @@ My personal Next.js template
 - Style: Default
 - Base color: Slate
 - ✅ CSS variables
+- Command `npm run ui [add]` short for `npx shadcn-ui@latest [add]`
