@@ -19,6 +19,8 @@ My personal Next.js template
 - ✅ CSS variables
 - Command `npm run ui [add]` short for `npx shadcn-ui@latest [add]`
 
+### Typing/Validaton - Zod
+
 ### Testing - Vitest
 
 - ✅ jsdom
